@@ -3,6 +3,7 @@
  */
 const projectId = 'kirin-0';
 const location = 'global';
+const text = 'Ferreri, Ernesto';
 
 // Imports the Google Cloud Translation library
 const {TranslationServiceClient} = require('@google-cloud/translate').v3beta1;

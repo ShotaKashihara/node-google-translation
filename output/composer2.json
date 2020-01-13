@@ -1,0 +1,5405 @@
+{
+  "translations": [
+    {
+      "translatedText": "パーセル、E。H.",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゴダール、ベンジャミン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボルグストロム、ハルマル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リンドペイントナー、ピーター・ジョセフ・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュライファース、ジョージ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ペトリラ、エリコ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "メフル、エティエンヌ・ニコラス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グリンカ、ミハイル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デカステラ、ルネ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラドール、テオドール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ザメクニック、ジョンステパン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベッカー、オットー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ディハウ、デジレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アメリ、ハメリク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドゥアール・デランサール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミュラ、カウエ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マーナー、マーチン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "徳美、安住",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブロンザート、インゲボルグ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クラミ、ウーノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フランツ・フォン・ヘスリン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アーノルド・シェーンベルク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "プフィッツナー、ハンス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エミール・ナウマン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュクルプ、フランティシェク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Foulds、ジョン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スカルラッティ、ドメニコ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドモンド・アンジェラー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ディアス、アレハンドロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミレッキ、モーリス・ド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハスヒル、マイケル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アントン・ブルックナー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アイスラー、ハンズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Sekles、ベルンハルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンデルセン、ヨアヒム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エルドマンスデルファー、マックス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドマンド・ボルク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウォルター、8月",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エーレンスペルガー、カルロス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラックス、フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボード、ヘルマン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルイ・ラポート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴェルデューゼン、リック・バン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Wieniawski、アダム・タデウシュ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨンゲン、ヨセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゼルベル・ジュニア、フェルディナンド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マキューン、ハミッシュ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ザネッラト、フランチェスコ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クレイン、アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スマート、ヘンリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "プレーガー、フェルディナンド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シューマン、ゲオルク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョンソン、エレノア",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シェリング、アーネスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハインリッヒ、アンソニーフィリップ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルイ・カツァウ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デストロ、ジャレッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブランドル、ヨハン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オスカー、ベーメ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アプト、フランツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マイヤー・ヘルムンド、エリック",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドワード・バーリンゲームの丘",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アレクサンドラ、リアナ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マン、デジレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ティエリオット、フェルディナンド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リボルロ、ガブリエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クローゼ、フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミスカ、ボルゾ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エミール・オルセン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヤンセン、ヴェルナー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルイ、ブロウ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リー、アボット",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウッド、ハイドン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スミス、ウォルターウォレス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "タヴァレス、ルチアーノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ドニゼッティ、ガエターノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クリーガー、ヨハン・フィリップ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フィードラー、マックス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウジェーヌ・ゴーティエ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョージ・セル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マーティ、ジョルジュ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スーザ、ウェリグトン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "プッチーニ、ジャコモ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シモネッティ、アキレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コレシチェンコ、アーセニー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジャック=ルイ、バットマン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サス、ペテル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ガティ、ゾルタン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バダルベイリ、アフラシヤブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ピーターソン・ベルガー、ウィルヘルム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴィダル、ポール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミューレン、ジェームズ・B",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サラシュヴァティ、ケーツナヴィッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ペレジャー、デビッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Shu、Yu文",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘルムスミュラー、F.B。",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グラント・シェーファー、ジョージ・アルフレッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダンベ、ジュール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ビュッサー、アンリ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シャルパンティエ、マーク・アントワーヌ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボスク、オーギュスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リラン、ローラン・ド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カール・ジークムント・フォン・セッケンドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ケゲラー、ウジェーヌ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボロックス、フェリックス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チョウデンス、アントニー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロエベ、カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "キール、フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クファナート、ラファエーレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "セナンティ、ヴェナンツィオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロッシーニ、ジョアッキーノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハイドン、マイケル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボドロ、カルロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジェラール・キウサノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウォレス、ウィリアム・ビンセント",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジェッセル、レオン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コービン、アルバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グリム、ジュリアスオットー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ディーペンブロック、アルフォンス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "翻訳者、ジークフリート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アウリ、モーリシー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クライン、フリッツ・ハインリッヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘンリー・メイラス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロドルフ、ジャン=ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スクワイア、ウィリアム・ヘンリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クリスチャン・カンナビッチ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ノスコフスキ、ジグムント",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フックス、ロバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Brandts Buys、1月",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グリゴール、アラケリア",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハルストローム、イバル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゾンネンフェルド、アドルフ・ガストー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デフェ、ピエール・ルイ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デデ、エドモンド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デサン、アントワーヌ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミルドレッドの丘",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ニコライ、オットー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レオン・デュフィル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ファイファー、グレゴリー・カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Huppertz、ゴットフリート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エコノモウ、トーマス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロホガモン、サルバドール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マルティネス・ガルシア、サルバドール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デソルム、ルイ・セザール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トーマス、アンブロワーズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブロックス、1月",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リギニ、ヴィンチェンツォ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マシューズ、ジョン・ルーク・マーク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コーツ、エリック",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ランググレン、ノーチJ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロビンソン、J。ラッセル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "プレイエル、イグナス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サンチョ、イグナティウス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アフルンティ、チャールズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エルスフェルド・マンドゥジャノ、ポール・ダニエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "イヴァン、モーリス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "キム・ヒチョル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ポゴジェフ、ウラジミール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダンクラ、チャールズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボッシ、マルコエンリコ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コルドラス、ホセド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デュボア、レオン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マジン、マイケル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ローゼ、マーティン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボアソン、フェリックス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アイレンバーグ、リチャード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クラウス、ジョセフ・マーティン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スタニスラオ、ガスタルドン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "タイトルバウム、J。",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シェーファーデッカー、ヨハン・クリスチャン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ステファン、ルディ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マリング、オットー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デイビス、ガッシー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブカロッシ、プローチダ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウンガー、ヘルマン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラデック、ロバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベネット、ウィリアム・スターンデール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アルヘンテシ、ダリオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アドルソン、ルドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バグリー、エドウィン・ユージーン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フェラーロ、ギゼッペ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ピアソン、ケビン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "セイボルト、アーサー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ローリンソン、トーマス・H",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハリントン、ジェフリー・マイケル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アリー、ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ストロング、ジョージテンプルトン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンクリフ、チャールズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オードラン、エドモンド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルフェーブル、フランソワ・シャルルマーニュ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マルトゥッチ、ジュゼッペ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マウロ、スキアボーネ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ディートリッヒ、アルバート・ヘルマン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "パーカー、ホレイショ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マット、アルバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サマゼイユ、ギュスターヴ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ネポムセノ、アルベルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "プライス、フィレンツェ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "セイフライド、イグナス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カーンブリー、8月",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マッキ、クラウディオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クラウス・ビエール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ケリー、イアン・ドナルド・キリーン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ピノイ、ピーター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボッタギシオ、アンジェロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブルーム、エブリン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "パブロフ、ストラトシミル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハニカイネン、ヴァイノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴァン・ベルコム、ピーター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドワード・ランバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘルマン、パル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エンドラー、ヨハン・サミュエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロー、イアン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デラボルド、エリー・ミリアム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミルティッツ、カール・ボロメウス・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フェティス、フランソワ・ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルミエール・ド・コルヴェイ、ジャン=フレデリック=オーギュスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レイブロック、ジョセフ・アドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブラン、アドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グラウン、ヨハン・ゴットリーブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クンゼン、アドルフ・カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "モルター、ヨハン・メルヒオール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ステケル、ヨハン・フランツ・ザベール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クンツェン、フリードリヒ・ルートヴィヒ・アエミリウス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サッキーニ、アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チェレリ、フォルトゥナート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ガルダッピ、バルダッサーレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ポルポラ、ニコラ・アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ワインディング、8月",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハイゼ、ピーター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クレマン、ブルタン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルドルフ、エルンスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョセフ通り",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ライランド、ジョセフビクターマリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アルバート、オイゲンd '",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フレーリッヒ、フリードリヒ・テオドール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グレデナー、カールゲオルクピーター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュナイダー、フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デップ、ルートヴィヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ショルツ、ベルンハルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュミット、ヨハン・クリストフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボステ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨハン・グラフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ライヒナウアー、アントニン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンドレ・カンプラ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ナウマン、ヨハン・ゴットリーブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴァン・ギルスト、ダニエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ガルシア、ホセ・マウリシオ・ヌネス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゾロタレフ、ヴァシリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コーネリアスのグルリット",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Arantes、Rafael Sales",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アフェルニ、ウゴ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴェストローム、アンダース",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フェスカ、フリードリヒ・エルンスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サルティ、ジュゼッペ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "冬、ピーター・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロス・バトドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アーノルド、サミュエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アリアガ、ファン・クリソストモ・デ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "メウッチ、ジョヴァンニ・ヴィンチェンツィオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ファイファー、ヨハン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラインハルト、ヨハンゲオルク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リチャードソン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウィルムス、ヨハン・ヴィルヘルム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バラゴネ、グレゴリオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ファルカリ、フェルディナンド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アリアビエフ、アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジュビレイ、アンドレア",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マルコ、マルコ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "公園、若い",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カリウォダ、ヨハン・ヴェンツェル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボイス、ウィリアム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダン、バート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リャトシンスキー、ボリス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クッサー、ヨハン・ジギスムント",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クジン、ウィリアム・ジョージ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベネディクト、ジュリアス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウィラン、ヒーリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "パリー、チャールズ・ヒューバート・ヘイスティングス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リチャード・ホイバーガー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クシチュカ、ヤロスラフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バインダー、カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ペイン、ジョン・ノウルズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クロスシング、ピーター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ドッツァウアー、フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュミット、アロイス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カンメル、アントニン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アーネ、トーマス・オーガスティン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サンマルティーニ、ジュゼッペ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨーゼフ、ミズリベチェク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボルギ、ルイージ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アベル、カール・フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オリベイラ、ブルーノ・カルヴァリョ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レオンカヴァッロ、ルッジェーロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マセット、フランク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "セバスチャン・ヤラディア",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オット、シルベイン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "プロクター、アリス・マッケルロイ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クレナウ、ポール・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジュベルティ、アントニン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デルデベス、エドゥアール・マリー・アーネスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ユリウスのメレンドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハリス、クレメント",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リグナー、フェリックス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マルーニッチ、ルカ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スーザ、ホセ・アレクサンドリーノ・デ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バレロン、ルイ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ネヒト、ジャスティン・ハインリッヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アリザデ、アグシン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジャン・フランソワ・ザビエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ナウマン、エルンスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アッペルドールン、ディナ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボルデス、チャールズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジュリアン、ルイ・アントワーヌ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マーティン、フランク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラザリン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボニス、メル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サントス、ジョナサン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブルクミュラー、フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロバート・ブレムナー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルビ、ザビエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドワード・ジェームズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エゴン・ウェレス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴァン・デル・ズワロウ、マイケル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンリ男爵",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミスカ、ダラス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マリウス・ブールード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デ・ミケリ、ジュリオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Dedieu-Peters、マデリン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リッチー・シニョリーニ、アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロード、マックス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スティーブンソン、エルズワース",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チャールズベリファンテ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンドレ・ゲダルジュ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アルベルディ、フアン・バウティスタ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マニー、チャールズ・フォンテイン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グリュンフェルド、アルフレッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ティツィアーノ・ベデッティ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゴーンス、ダニエル・ヴァン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バインダー、クリストリブシークムント",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ショーヴェ、アレクシス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ドニー、アンティーム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ランチアーニ、ピエトロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンローイ、ピーターヴァン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トーチ、エルンスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エルネスト・ベッチ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミュラー・ベルクハウス、カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンドリュー、フェルナン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルメール、ジャン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グリフ、チャールズ・トムリンソン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブノワ、ピーター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アレン、トーマス・S",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダムゼ、ヨゼフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アラリオ・デル・リオ、ビクトル・アルベルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マリウシュ、ウィクトロフスキ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グラム、ペーダー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブリッジ、フランク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ネバル、オスカー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ニコライ、アーティブシェフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チェロ、アンリ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グラジアーニ、マクシミリエン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ステファニ、ヨゼフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オルダ、ナポレオン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オスカー、コルバーグ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジェチェク・ルズドコフスキ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベスリー、モーリス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボルマン、ジョージカール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チェイス、アレックス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヤルネフェルト、アルマス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベレーゼ、アメデオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "キナジアン、パスカル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マクシミリアンのスタインバーグ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オーンシュタイン、レオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "パチェコ、ジョン・マヌエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アルカン、チャールズバレンティン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラ・ボワ、ムッシュ・ド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レイデン、ポール・R・ファン・デル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アーレット、ジレット",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オシオ、ジョバンニ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リッカルド・ザンドナイ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スミス、デビッド・スタンリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミゲス、レオポルド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コーダー、フレデリック",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボルセーヌ、アルマン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ストローブ、グスタフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バジェッティ、ジョバンニ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クレミュー、オクターブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スタミッツ、カールフィリップ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ナッチ、アンドレア・アントネッロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジャック、レイフ・トーマス・マルケン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チェン・ポール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クレソンノア、ジュール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルイ・アルバート、ブルゴー・デュクドレー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "にやじ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヒル、メイベルウッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フィリドール・ライネ、アンドレ・ダニカン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フランソワ、フランソワ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ピース、アルフレッド・ハンフリーズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "メレンゼイン、ヴァゼル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Collongues、Gustave-Jules",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ローブ、ヨハン・クリスチャン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "イェシュコ、ルートヴィヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ピエフケ、ルドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドワーズ、レオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ケイハニ、カレン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゴールドマーク、ルービン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フィッツェンハーゲン、ウィルヘルム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヒュー、ジョルジュ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マーティネット、アンドレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "セレニック、アドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デジャルダン、ルノー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ガスティネル、レオン・ギュスターヴ・シプリアン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブランドン、ヨハン伝道者",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ドラム、ジョージ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラドミロー、ポール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シェーファー、ダーク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジュオン、ポール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カヤヌス、ロバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ズワーグ、ウィム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リチャード・セントクレア",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フロン、フィリップ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Kozeluch、レオポルド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ソリアーノ・テバス、アルベルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サラゴサ、ファンパブロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チュイル、ルートヴィヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リューディンガー、ゴットフリート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウェスターハウト、ニコロバン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グランヴァル、クレメンス・ド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マレ、マリン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ネビン、エセルバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バルズ、マルティネス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ガルデル、ピエール=ガブリエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エンゲルベルトフンパーディンク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オレレンショウ、T.R。",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オーバーチュール、チャールズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュメルツァー、ヨハン・ハインリッヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロベルト・スボルチ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アーレンズ、アンドレイ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルーイストン・シャープ、デビッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウェーバー、クリストフ・J",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベリオ、シャルル・オーギュスト・ド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "セルマー、ヨハン・ピーター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ポッパー、デビッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サンドバーガー、アドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グイド、ジョバンニ・アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バッカー・グロンダール、アガテ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウルマン、スペンサーフォード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘルテル、ピーター・ルートヴィヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ドナニー、エルニ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コンスタンタン、ビュルゲル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミカエリス、テオドール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "セーダーマン、8月",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カロジオ、エルメネジルド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジェフスキ、フレデリック",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マスマニアン、ダニエルクリコルリバレット",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バガレ、アンブロワーズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ワグナー、ジークフリート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コール、ジョン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サラル、アリ・リザ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ル・ティシエ、ピーター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュルテス、ウォルター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Drdla、FrantišekAlois",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョージライガード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロバーツ、ヘイデン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スガンバティ、ジョヴァンニ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カイザー、エリザベス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘイケンズ、ジョニー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウィルヘルムステンハンマー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アスプルマイヤー、フランツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トセリ、エンリコ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロイター、ゲオルク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サミンスキー、ラザール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ガーディナー、ヘンリー・バルフォア",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "松尾",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゲオルクカペレン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "RSB",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アミロフ、フィクレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Denisty、カミーユ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フィリップ・ゴーベール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジャック・ヴィデルケール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アントン・スタミッツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クルーサー、ジョージ・アントン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クレフラー、ヨハン・フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハルトマン、ヨハン・エルンスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジャロベーツ、アダルベルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラランド、ミシェル・リチャード・ド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バウアーシュミット（ルカデット）",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラグエ、ルイ・チャールズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロンバーグ、アンドレアス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロカテリ、ピエトロアントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "モリナ、アキアナ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロスラー、ヨハン・ヨーゼフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バイエル、ヨハン・イグナス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヤニッチュ、ヨハン・ゴットリーブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シェーベ、ヨハン・アドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨハン・スタミッツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンフォッシ、パスクアーレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ガスパリーニ、フランチェスコ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "モレイラ、アントニオ・レアル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トレリ、ジュゼッペ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヒラネク、フランティシェク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シェッキー、ヨハン・ゲオルク・クリストフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "キャメルローア、プラシダスフォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カルダラ、アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フィオレッリ、カルロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘック、カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バーニー、チャールズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブレシアネッロ、ジュゼッペ・アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ポルシル、ジュゼッペ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アグレル、ヨハン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョヴァンニ・ポルタ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボロニ、アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "キアーリーニ、ピエトロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダメリオ、ドメニコ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ファブリーニ、ジュゼッペ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フレデリックII",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジャイ、ジョヴァンニ・アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハラー、ゴットロブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョヴァンニ・パイシエッロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ペルゴレージ、ジョバンニ・バッティスタ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サリアー、アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョセフ・シュスター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "テラデラス、ドミンゴ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴェロカイ、ジョヴァンニ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オルドネス、ヨハン・カール・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ニコロ、ヨメリ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョンセン、ヒンリッヒフィリップ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アダム、ヨハン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フランシスコ・アントニオ・デ・アルメイダ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カプア、リナルド・ディ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ファッシュ、カール・フリードリヒ・クリスチャン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラティーラ、ガエターノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スカルラッティ、ジュゼッペ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベレッティ、G。C.",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フィオリージョ、イグナティオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ギャロ、アルベルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ネグリロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ピケル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルサ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サリエリ、アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アントニオ・スコントリノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンドレア・ベルナスコニ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リベラ、ジョセップ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アブリル・ティラド、ペドロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブルネッティ、ガエターノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ガレア、エマヌエーレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フンフェルド、ベルンハルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ローラ、アレッサンドロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラピス、サント",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "イヴェルセン、ヨハネス・エラスムス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コントンスキ、アントン・デ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フレンツル、イグナス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ポール・ラニツキー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "モルデレ、ピエールヴァン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アントワーヌ・マハウ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リーマン、ヒューゴ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジントル、フランク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クレーヘンビュール、サミュエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴェルリ、ヴェルナー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ザビエルスキ、ピョートル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コッホ、フリードリヒ・エルンスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ティーレ、エドマンド・B",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シェルフ、J。キャスパー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ビーチ、エイミーマーシー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ケール、オーガスト・ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フリードマン、カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "メラチン、エルキ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カレル、ルドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロサス、ユヴェンティーノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ティーツェル、カール・アルバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マッケン、ジョン・ブラックウッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ファラ、マヌエル・デ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロイス、8月",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Schjelderup、Gerhard Rosenkrone",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レオ、レオナルド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コスポス、オットーカールエルドマン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オリベイラ、ジェイルトン・デ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロロック、レイニー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アラスジェロフ、スレイマン・アイユーブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マルセロ、ツピナンバ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マーシック、アルマンド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヒューミストン、ウィリアム・ヘンリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クリストフ・ロルフス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アレクサンドル・デバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドゥアール・ブルスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラングガード、ルード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エルヴェ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レオン、ローラン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "パオロ・リッタ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Beáscher-Matyó、タマス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウィンダーシュタイン、ハンス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デビッド、アドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アクロン、ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Gruber、Franz Xaver",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デビッドソン、ロバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボッケリーニ、ルイージ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シューベルト、カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ビルゼ、ベンジャミン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サルデリ、フェデリコ・マリア",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グリフ、アーサー・デ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラロンデル、ルイ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レーベル、ナポレオンアンリ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カンデラカスティージョ、ホセ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "指、ゴットフリート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ストジョウスキ、シギスモンド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘンリク・パクルスキ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダヴィドフ、カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ポールソン、カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リンケンズ、ウィルヘルム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゴメス、フリオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アルデスピン、メルヒオールd '",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロット、ハンス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴァイヴァノフスキー、パベル・ヨーゼフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グレイス、モーリス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブルッフ、マックス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デルバジェデパス、エドガルド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴァロワ、エティエンヌ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オークリー、ハーバートスタンレー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エッサー、ハインリッヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グリデリモ、ラルデリ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ニコライ・コチェトフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "タレクエフ、アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブラッケン・フォック、ジェラルド・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブロッホ、ヨーゼフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ザルジツキ、アレクサンダー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アレクサンドル・ティニャコフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "玉井、清スル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アルファノ、フランコ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨゼフのヴィエニアフスキ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クロード・トレント",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フォスカリーナ、マリオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リード、ウィリアム・ヘンリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マズエル、ミシェル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フェルビツキー、ミハイロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マグロウ、ポール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デマレスト、クリフォード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラバディ、ヒッポリテ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "パレス、ガブリエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドゥアールのカザヌーブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョエル・ヴェルフェル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アーネスト・ピングード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オーリン、トール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Løvenskiold、ハーマン・セヴェリン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブロックウェイ、ハワード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "話す、オーリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロザリア、ダニエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラリー、ライリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マランド、A。",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シリングス、マックス・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "堤慎吾",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トンプソン、スティーブンE",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ティネル、エドガー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エドモンドストーンのダンカン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブラウンフェルズ、ウォルター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルトスワフスキ、ウィトールドローマ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アズファー、モーサ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロゼッティ、アントニオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョンシエール、ビクトリン・ド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クラウス、ランバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミシェル・コレット",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カルテリエリ、カシミール・アントン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アイクナー、エルンスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "メッツァー、フランツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アザイス、ピエールイアサント",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベッケ、イグナス・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フィルハン、ヨハン・アントン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スタンプン、ヨハン・クリスチャン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フィッシャー、レオンハルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジールチェ、ハンス・ヒンリッヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カンビニ、ジュゼッペ・マリア",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラクニス、ルートヴィヒ・ヴェンツェル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リーマン、エベールフィリップエイドリアン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨハン・ガブリエル勲章",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ピクフル、バツラフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュウィンドル、フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジンゴニ、ジョバンニ・バッティスタ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グライスナー、フランツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベック、フランツ・イグナス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チャールズ・アンリ・ド・ブランビル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウジェーヌ、ゴデシャル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グライナー、ヨハン・テオドール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "イグナス、ホルツバウアー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リダルティ、クリスチャン・ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リッチコ、フランチェスコ・パスクアーレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Richter、Franz Xaver",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フェラーリ、カルロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トーエスキ、カール・ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゲニン、マリー・アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "プエターニ、ガエターノ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルーサー、バレンティン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コミ、ガウデンツィオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フーバーティ、アントン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ナヴォイギレ、ギヨーム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アレッサンドリ、フェリーチェ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グラフ、クリスチャン・エルンスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ニコラス・ジョセフ・チャートラン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨハン・ショベルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミログリオ、ジャン・バプティスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サンジョルジュ、ジョセフボローニュ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "リゲル、アンリ・ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クレメンティ、ムツィオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨハン・バプテストのヴァンハル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アントニン、マーモンテル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "メンゲルベルク、ルドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハーン、ウィレム・デ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ボンビン、ルートヴィヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ケッセル、フランツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ケスラー、ハンス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "インゲンホーフェン、1月",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ノイバウアー、フランツ・クリストフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンリ・マルトー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジャン=バプティスト、ブレヴァル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サムヴァンティーニ、ジョヴァンニ・バッティスタ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ホフマン、レオポルド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルイ・ヴィエルヌ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベンダ、フランツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュミットバウアー、ジョセフ・アロイ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チャソン、アーネスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トゥルク、ダニエル・ゴットロブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マッシュ、P。H.",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ポッター、フィリップ・チプリアーニ・ハンブリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ザンダー、ヨハン・デイビッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フーフ、J。B.ヴァン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カンナビッチ、カール・オーガスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アーノルド・クリュッグ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エーバース、カール・フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カフカ、ヨハン・クリストフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンソニー・バーバリス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウィット、フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルイ・マソノー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コピロフ、アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デイビッド、フェリシアン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フランソワ、デヴィエンヌ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スペルガー、ヨハン・マティアス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エーデルマン、ジャン=フレデリック",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Reinthaler、カール・マーティン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョージ・クリストフ・ワゲンセイル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フリーシャー、フリードリヒ・ゴットロブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Vitzthumb、Ignaz",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デンテ、ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フロリディア、ピエトロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サヴィ、アルフォンソ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フィツェルベルグ、グジェゴルツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘグ、ヤコブ・アドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンドレ、ヨハン・アントン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アントン・エベル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レイシャ、アントン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クリストフ・ソンライトナー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴァスムス、ヨハンゲオルクフランツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カステルバルコビスコンティ、チェザーレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レーゼル、ヨハン・ゲオルク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ネルーダ、ヨハン・バプテスト・ゲオルク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トーマス、ウィリアム・エドウィン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コンラッド・ブレウニグ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グローマン、カール・ゴットフリード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ニコリーニ、ジュゼッペ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レントゲン、ユリウス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウーシタロ、ユッカ・ジュハニ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ホロウェイ、ジョーダンマレー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゴットシャルク、ルイモロー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨルダングリッグ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アレキサンダー・コロトコフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ピメンテル・オジェダ、エドワード・ジョシュア",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クルーベリス、シモーニ・ドール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マイスカルキ、ルイージ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルートヴィヒのベルガー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バーカーン、サミュエル・ジェームス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ホセ・バランケロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グレチャニノフ、アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シバリン、ヴィサリオン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アイネス、アルネス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゼルナー、ジュリアス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "徐、ザビエル双",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロイス、ハインリッヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クローマー、フランツ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨハネス・ハークルー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベンディックス、ビクター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ビショフ、ヘルマン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グラス、ルイ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ストック、フレデリック",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュテア、リチャード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サイラス、エドゥアール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュトレーサー、エヴァルト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ホッヒベルク、ハンス・ハインリッヒ・ボルコ・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ゲルンスハイム、フリードリヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "オンスロー、ジョージ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルアイミ、ニコラス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダリエ、アンリ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "パウエル、エルンスト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バーガー、ウィルヘルム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アレナス、マティアス・ホセ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウォルター・オーガスタスのブラクストン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブライアン、ハーバーゲル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エミール・ルドヴィクセン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マーラー、グスタフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミハロビッチ、オーデン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラングストローム、トゥーレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミシェル・ロンドー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "サゴ、ヤスノリ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シモンセン、ルドルフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ソルダ、ファビオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴァレンシン、ジョルジオカヴァリエーレ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴィオレット、アンドリュー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジンク、ステファン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ホフマイスター、フランツ・アントン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アッターバーグ、カート・マグナス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アレクサンドル・ゲディケ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダフナー、ヒューゴ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トゥルネミア、チャールズ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ローゼンハイン、ジェイコブ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジャンニーニ、ヴィットリオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベッカー、ジョン・J",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "プラウト、エベニーザー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジェロビンスキー、ヴァレリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘッセ、アドルフ・フリードリッヒ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クーフナー、ジョセフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マンフォード、ローレンスR.",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ショアーズIII、ハロルドデニス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ツウィアーズ、バーナード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マーシュ、ジョン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "タネイエフ、セルゲイ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴィシュネグラツキー、アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ストライグラー、カート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "レナード、レナード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バルダン、アンジェロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハジエフ、ジョブダット",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ババヤン、ヴァーラム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フォドール、カレル・アントン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ハーシェル、ウィリアム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラファザノフ、ルファト",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ベルリン、ヨハン・ダニエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラブル、ウォルター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "カラファティ、ヴァシリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヨハン・ルフィナッチャ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エミル・ムウィナルスキ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Kufferath、Hubert Ferdinand",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルーファー、フィリップ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Voříšek、JanVáclav",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジェンセン、グスタフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブルーメンフェルド、フェリックス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クラインミシェル、リチャード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クールズ、ウジェーヌ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヘルベック、ヨハン・フォン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "セロフ、アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バルテレミー、リチャード",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ペロシ、ロレンソ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジュニア、カンテルモ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ニック、ノートン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "キャドマン、チャールズ・ウェイクフィールド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Podder、Shombit Kumar",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アンドレアスハレン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "スアレス、ダニエル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルドルフ・バーグ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ランパー、ヴァルター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュニア、ジョアン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ラビツキー、8月",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ナタナエルベルク",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ビッテン、ウェンデリン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴェルスルイス、タイラー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ヴァイツマン、または",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "メルリッヒ、リカルド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダニエル・デュジェンヌ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シェクター、ボリス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Cleis、Cato",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クリン、アンリ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フォン・ティルツァー、ハリー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "アルカウスカス、ギドリウス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "コバショビッチ、カレル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マルギス、アルフレッド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "セレガ、ニコロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ダルジシュ、エムルス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ルソー、サミュエル・アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ジョンソン、サーモリアン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "グティエレス・マルティネス、アルトゥーロ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ミュラー・ハルトマン、ロバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ウィンクラー、アレクサンドル",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブレトン、トマス",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クロイツァー、コンラディン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "マターン、G。",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ニコラス・カザンリ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ロフラー、チャールズ・マーティン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ワグナー、フェルディナンド",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "デワエル、ヨハン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "チャールズ・ストローニー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Csige、ポール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "パンズ、ウィレム・ヤン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エラーン、ジョンロッジ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "クッケン、フリードリヒ・ヴィルヘルム",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブレオ、レオ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "キースウェッター、グンター",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "トワイクロス、マーティン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "プライアー、アーサー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ブレイル、ジョセフ・カール",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "シュランメル、ヨハン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ピック、グスタフ",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "ローパー、ジョン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "エイ、エイドリアン・K",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "Lortzing、アルバート",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "フォルスター、アルバン",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    },
+    {
+      "translatedText": "バーナーズ、ジョン・エドガー",
+      "model": "",
+      "glossaryConfig": null,
+      "detectedLanguageCode": ""
+    }
+  ],
+  "glossaryTranslations": []
+}
